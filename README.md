@@ -28,7 +28,7 @@ An instance of a game involves a wheel with a specified number of coins.
 All coins states are initially hidden from the player.
 
 An instance of a game also specifies the maximum number of turns a
-player may take while attemptig to configure the wheel into a
+player may take while attempting to configure the wheel into a
 winning state.
 If the player successfully configures the wheel into a winning state,
 then they player wins that game.
